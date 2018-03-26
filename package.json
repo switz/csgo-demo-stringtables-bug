@@ -1,0 +1,15 @@
+{
+  "name": "demo-stringtables-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "demofile": "^0.4.16",
+    "minimist": "^1.2.0"
+  }
+}
